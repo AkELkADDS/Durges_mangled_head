@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="3060ca1e-6a6a-079e-e999-7398f55bee4b"/>
+            <attribute id="Name" type="LSString" value="Durges_mangled_head"/>
+            <attribute id="UUID" type="LSString" value="20e7c2ad-e214-840c-3e12-eff2dfadcca3"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

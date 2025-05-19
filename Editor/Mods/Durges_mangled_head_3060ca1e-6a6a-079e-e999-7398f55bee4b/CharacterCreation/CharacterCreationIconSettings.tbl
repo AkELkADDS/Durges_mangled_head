@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8da77486-dacf-440e-b6c4-f466de9a0deb" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_Mangled_Head_L" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornJaw;DragonbornChin;DragonbornTop;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="22c6b8af-04a8-4fee-9196-21a519e02f78" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9ba08727-3f88-45b0-bd63-7a9fd4e45a66" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_Mangled_Head_R" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornJaw;DragonbornChin;DragonbornTop;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
