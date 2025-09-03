@@ -259,7 +259,7 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Tail_Mangled_Long_L_1" />
       </fields>
     </stat_object>
-    <stat_object color="#FFD2B48C" is_substat="false">
+    <stat_object color="#FFE9967A" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
         <field name="UUID" type="IdTableFieldDefinition" value="3eb32762-303b-4f03-bd3b-2f231eddcede" />
@@ -427,7 +427,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_Top_FB" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FFD2B48C" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
         <field name="UUID" type="IdTableFieldDefinition" value="6887b262-2489-4267-b39e-6aca9694ca8f" />
@@ -449,7 +449,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="8143252d-a662-4778-1d55-9a8a5afe99db" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a6910e8c-0102-2733-96d6-8825803ab4b8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdbd32315g507cg6901g6b39gd9b3ec949db6" version="1" />
       </fields>
     </stat_object>
@@ -462,7 +462,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="b4971a2a-4d1e-25ff-8f43-7fd5d3e66c9c" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5ffd7e24-088c-9a0b-2b14-404a49fabf2c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hedc1bc03g4918gcf87gbedcg4071bed75b6b" version="1" />
       </fields>
     </stat_object>
@@ -475,7 +475,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="060aa651-945e-3e02-edf1-2ac357b49c4f" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="651796a6-3eaa-28a0-3f3a-78c0aaf0e922" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5953f446g10d7ga822gcc2bg920d53a3b60d" version="1" />
       </fields>
     </stat_object>
@@ -488,7 +488,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="27075a68-c726-8d25-ae5d-4bf53834bb8c" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="6c63aef6-744b-8ac9-f9a5-0e3172ee8712" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2003f952g58f9gaf80gede5gdb89f7080d40" version="1" />
       </fields>
     </stat_object>
@@ -501,7 +501,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="f77d4963-2a82-a95a-95e8-a2e9c134ab4e" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ff3de9f4-ec1c-e9e1-7dc8-814ab72f47ef" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4967da12g9d0eg3f13g4620ga847342b49d6" version="1" />
       </fields>
     </stat_object>
@@ -514,7 +514,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="7849ea47-bd76-6c53-2bd2-edd7f96fcb27" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="31c8f2d2-a89a-3875-bebf-fdf2d93d4644" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdbfc49b2g5081g0d8fg36d3g913c42930d06" version="1" />
       </fields>
     </stat_object>
@@ -527,7 +527,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="e5a7be36-d91f-78c4-13e5-6a812e723b96" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="06eaa7ad-5aa6-7445-92c1-ed699805446c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc32102bagd9c3gbd3bgb626g8915aeaa5682" version="1" />
       </fields>
     </stat_object>
@@ -540,7 +540,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="d54f0ce9-f9ee-62a5-b7d9-986c4adc8cf6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b372eb06-4275-009d-1eb0-a91125c2b6a1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8286d474gf593gc9d0gfd9agefb31dac12a6" version="1" />
       </fields>
     </stat_object>
@@ -553,7 +553,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="6447069c-8626-417a-3088-4c7a1c0cbe72" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="6b36c60b-9baa-7dbf-2a0a-d48d2a2d934b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hce045728g57c0g5165g0f26gcad2adf5b7da" version="1" />
       </fields>
     </stat_object>
@@ -566,7 +566,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="49353943-c6e4-ea6a-0360-689b5ae5091b" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f9f3551e-a1af-e0cb-ad41-298ca5ae8dc3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2df9d643gdaa6g0a14gddcfg80eae608594b" version="1" />
       </fields>
     </stat_object>
@@ -579,16 +579,16 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="7e0ac8d9-6d37-a8e5-b582-6d12d55d6d16" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="15615fc9-84bd-b55f-d655-765015948d3a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc52f3801gbe77g1c2cge597ge0bd548b38dd" version="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FFE9967A" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_42" />
-        <field name="UUID" type="IdTableFieldDefinition" value="ba6738d6-c5a5-4398-b602-f00c032cff5a" />
+        <field name="UUID" type="IdTableFieldDefinition" color="#FFE9967A" value="ba6738d6-c5a5-4398-b602-f00c032cff5a" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" color="#FFE9967A" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="22c6b8af-04a8-4fee-9196-21a519e02f78" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
@@ -737,7 +737,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_Jaw_FB" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FFD2B48C" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_53" />
         <field name="UUID" type="IdTableFieldDefinition" value="8d446705-ccf9-465e-abf6-c8a12e56d7cf" />
@@ -880,10 +880,10 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h26a29d0fge355g7946gec1dg4a9e84bd1f3d" version="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FFE9967A" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_64" />
-        <field name="UUID" type="IdTableFieldDefinition" value="d592bf68-56c4-4e2e-8d87-b6906cc055fd" />
+        <field name="UUID" type="IdTableFieldDefinition" color="#FFE9967A" value="d592bf68-56c4-4e2e-8d87-b6906cc055fd" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
@@ -1034,7 +1034,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_Chin_FB" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FFD2B48C" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_75" />
         <field name="UUID" type="IdTableFieldDefinition" value="484d2981-b69a-4f0d-9599-6d26d8f7df0a" />
