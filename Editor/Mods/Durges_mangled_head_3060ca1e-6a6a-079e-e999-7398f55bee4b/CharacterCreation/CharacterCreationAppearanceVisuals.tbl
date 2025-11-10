@@ -586,9 +586,9 @@
     <stat_object color="#FFE9967A" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_42" />
-        <field name="UUID" type="IdTableFieldDefinition" color="#FFE9967A" value="ba6738d6-c5a5-4398-b602-f00c032cff5a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba6738d6-c5a5-4398-b602-f00c032cff5a" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" color="#FFE9967A" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="22c6b8af-04a8-4fee-9196-21a519e02f78" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
@@ -883,7 +883,7 @@
     <stat_object color="#FFE9967A" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_64" />
-        <field name="UUID" type="IdTableFieldDefinition" color="#FFE9967A" value="d592bf68-56c4-4e2e-8d87-b6906cc055fd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d592bf68-56c4-4e2e-8d87-b6906cc055fd" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
