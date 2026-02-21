@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b 
-   Wed 11/26/2025 23:50:55.06 
+   Sun 02/22/2026  2:03:38.38 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -369,7 +369,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, November 26, 2025 11:50:58 PM
+  Started : Sunday, February 22, 2026 2:03:41 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
      Dest : C:\GIT_BG3\MOD_REPOS\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Projects\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
 
@@ -380,7 +380,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     697	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\meta.lsx100%  
-	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\thumbnail.png 21%  100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\thumbnail.png 42%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -393,7 +393,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2493665000 Bytes/sec.
    Speed :           142688.655 MegaBytes/min.
-   Ended : Wednesday, November 26, 2025 11:50:58 PM
+   Ended : Sunday, February 22, 2026 2:03:41 AM
 
  
 [DEBUG] Counting source files 
@@ -419,7 +419,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, November 26, 2025 11:50:59 PM
+  Started : Sunday, February 22, 2026 2:03:43 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
      Dest : C:\GIT_BG3\MOD_REPOS\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Editor\Mods\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
 
@@ -444,7 +444,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           179496000 Bytes/sec.
    Speed :           10270.843 MegaBytes/min.
-   Ended : Wednesday, November 26, 2025 11:50:59 PM
+   Ended : Sunday, February 22, 2026 2:03:43 AM
 
  
 [DEBUG] Counting source files 
@@ -470,7 +470,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, November 26, 2025 11:51:01 PM
+  Started : Sunday, February 22, 2026 2:03:45 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
      Dest : C:\GIT_BG3\MOD_REPOS\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Mods\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
 
@@ -496,7 +496,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2519693000 Bytes/sec.
    Speed :           144177.989 MegaBytes/min.
-   Ended : Wednesday, November 26, 2025 11:51:01 PM
+   Ended : Sunday, February 22, 2026 2:03:45 AM
 
  
 [DEBUG] Counting source files 
@@ -522,7 +522,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, November 26, 2025 11:51:03 PM
+  Started : Sunday, February 22, 2026 2:03:47 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
      Dest : C:\GIT_BG3\MOD_REPOS\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
 
@@ -588,7 +588,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7a51e501-bf99-2a1b-e272-54c61ad11809.lsf100%  
 	    New File  		    2635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7ad63e42-fb92-4bcf-9018-bf70b3ddf95b.lsf100%  
 	    New File  		    2576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7baf7b1b-88ea-4ae1-87fe-ea440d8b793a.lsf100%  
-	    New File  		    4447	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7ca22950-54e9-480e-8953-412de739cc51.lsf100%  
+	    New File  		    4568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7ca22950-54e9-480e-8953-412de739cc51.lsf100%  
 	    New File  		    2635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7d26c65d-e81d-4237-a3f8-0b432dac226b.lsf100%  
 	    New File  		    2674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\7ffecf9f-2411-4d6c-a155-98b5a181d03f.lsf100%  
 	    New File  		    1658	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\81405922-99fb-0c6f-57b8-c360d0e8eb70.lsf100%  
@@ -597,7 +597,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\877f0aa1-49ab-1761-de2f-cb011d8d287c.lsf100%  
 	    New File  		   14002	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\890d9460-e6a5-df33-931b-c53ac37877d3.lsf100%  
 	    New File  		    1653	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\8acfad1f-2199-fff2-6f8d-162a9e6b8e30.lsf100%  
-	    New File  		    4473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\8d98da5e-ef21-4ef6-9c31-dd8aa0bac441.lsf100%  
+	    New File  		    4594	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\8d98da5e-ef21-4ef6-9c31-dd8aa0bac441.lsf100%  
 	    New File  		   14005	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\8db177b0-ed28-29d0-5e20-8a903225f9b7.lsf100%  
 	    New File  		    1633	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\90461544-7f1b-d782-6aa0-74dacd10da8f.lsf100%  
 	    New File  		    2635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\90ac3126-5c93-43da-9f8c-c607ae0cc347.lsf100%  
@@ -645,11 +645,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\fa977f1b-6ba5-432b-86c2-c08be4b73ec0.lsf100%  
 	    New File  		    1650	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\[PAK]_Durges_mangled_head\fb115c1c-287a-c398-45c0-158dbfd0992a.lsf100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\Textures\Icons\DMH_A_Atlas.dds100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_CTLO.DDS100%  
-	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_DMSK.DDS100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_HMVY.DDS100%  
-	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_MSK.DDS100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_NM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_EL_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_EL_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_EL_DMSK.DDS100%  
@@ -661,12 +656,22 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_R_EL_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_R_EL_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Mangled\DGB_F_NKD_Tail_C_DMH_R_EL_NM.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_CTLO.DDS100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_DMSK.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_HMVY.DDS100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_MSK.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Chin\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_A_EL_Chin_MA_NM.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_CTLO.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_DB_DMSK.DDS100%  
 	    New File  		  349672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_HMVY.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_MSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\CrestTop\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_NM.DDS100%  
+	    New File  		  699216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_CTLO.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_HMVY.DDS 56%  100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_MSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_NM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_DMSK.DDS100%  
@@ -677,11 +682,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R_NM.DDS100%  
-	    New File  		  699216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_CTLO.DDS100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_DMSK.DDS100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_HMVY.DDS100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_MSK.DDS100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Jaw\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_NM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_DMH_EL_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_DMH_EL_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_DMH_EL_DMSK.DDS100%  
@@ -689,24 +689,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_DMH_EL_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_DMH_EL_NM.DDS100%  
 	    New File  		   14020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_D\6fe644c6-3e26-814a-12cc-ca68c5e486af.lsf100%  
-	    New File  		  211828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_EL.GR2100%  
-	    New File  		     246	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_EL.xml100%  
-	    New File  		  143572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_Left_EL.GR2100%  
-	    New File  		     251	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_Left_EL.xml100%  
-	    New File  		  143580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_EL.GR2100%  
-	    New File  		     259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_EL.xml100%  
-	    New File  		  143580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_L_EL.GR2100%  
-	    New File  		     261	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_L_EL.xml100%  
-	    New File  		   22208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Chin_MA.GR2100%  
-	    New File  		     255	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Chin_MA.xml100%  
-	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA.GR2100%  
-	    New File  		     260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA.xml100%  
-	    New File  		  290064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_R.GR2100%  
-	    New File  		     262	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_R.xml100%  
-	    New File  		  990076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL.GR2100%  
-	    New File  		     247	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL.xml100%  
-	    New File  		  990524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R.GR2100%  
-	    New File  		     249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R.xml100%  
 	    New File  		  143676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_FZ_Tail_DMH_C_L.GR2100%  
 	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_FZ_Tail_DMH_C_L.xml100%  
 	    New File  		  143680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_FZ_Tail_DMH_C_Long_L.GR2100%  
@@ -716,10 +698,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  143676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_FZ_Tail_DMH_C_R.GR2100%  
 	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_FZ_Tail_DMH_C_R.xml100%  
 	    New File  		  143676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_DMH\Tail\DGB_EL_MZ_Tail_DMH_C_L.GR2100%  
-	    New File  		  185316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.GR2100%  
-	    New File  		     252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.xml100%  
-	    New File  		  185412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.GR2100%  
-	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.xml100%  
 	    New File  		   20236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FB_Chin_DMH_MA.GR2100%  
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FB_Chin_DMH_MA.xml100%  
 	    New File  		   23732	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FC_Chin_DMH_MA.GR2100%  
@@ -790,6 +768,28 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MG_Jaw_DMH_MD_L.xml100%  
 	    New File  		  185408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MG_Jaw_DMH_MD_R.GR2100%  
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MG_Jaw_DMH_MD_R.xml100%  
+	    New File  		  211828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_EL.GR2100%  
+	    New File  		     246	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_EL.xml100%  
+	    New File  		  143572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_Left_EL.GR2100%  
+	    New File  		     251	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_C_Left_EL.xml100%  
+	    New File  		  143580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_EL.GR2100%  
+	    New File  		     259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_EL.xml100%  
+	    New File  		  143580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_L_EL.GR2100%  
+	    New File  		     261	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Mangled\DGB_M_NKD_Tail_Mangled_Long_C_L_EL.xml100%  
+	    New File  		   22208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Chin_MA.GR2100%  
+	    New File  		     255	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Chin_MA.xml100%  
+	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA.GR2100%  
+	    New File  		     260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA.xml100%  
+	    New File  		  290064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_R.GR2100%  
+	    New File  		     262	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_R.xml100%  
+	    New File  		  990076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL.GR2100%  
+	    New File  		     247	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL.xml100%  
+	    New File  		  990524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R.GR2100%  
+	    New File  		     249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R.xml100%  
+	    New File  		  185316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.GR2100%  
+	    New File  		     252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.xml100%  
+	    New File  		  185412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.GR2100%  
+	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -797,12 +797,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        64        64         1         0         0         0
    Files :       258       258         0         0         0         0
    Bytes :  143.83 m  143.83 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1019067317 Bytes/sec.
-   Speed :            58311.499 MegaBytes/min.
-   Ended : Wednesday, November 26, 2025 11:51:03 PM
+   Speed :           402192546 Bytes/sec.
+   Speed :           23013.642 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:03:48 AM
 
  
 [DEBUG] Counting source files 
@@ -828,7 +828,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, November 26, 2025 11:51:05 PM
+  Started : Sunday, February 22, 2026 2:03:50 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
      Dest : C:\GIT_BG3\MOD_REPOS\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\
 
@@ -862,15 +862,15 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  185408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FD_Jaw_DMH_MD_R.GR2100%  
 	    New File  		  185408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FE_Jaw_DMH_MD_L.GR2100%  
 	    New File  		  185408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FE_Jaw_DMH_MD_R.GR2100%  
+	    New File  		   25272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_ME_Chin_DMH_MA.GR2100%  
+	    New File  		   25432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MF_Chin_DMH_MA.GR2100%  
+	    New File  		   26096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MG_Chin_DMH_MA.GR2100%  
 	    New File  		  295596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_ME_Top_DMH_MA_L.GR2100%  
 	    New File  		  295596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_ME_Top_DMH_MA_R.GR2100%  
 	    New File  		  295372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_MF_Top_DMH_MA_L.GR2100%  
 	    New File  		  295372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_MF_Top_DMH_MA_R.GR2100%  
 	    New File  		  295540	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_MG_Top_DMH_MA_L.GR2100%  
 	    New File  		  295540	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\CrestTop\DGB_EL_MG_Top_DMH_MA_R.GR2100%  
-	    New File  		   25272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_ME_Chin_DMH_MA.GR2100%  
-	    New File  		   25432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MF_Chin_DMH_MA.GR2100%  
-	    New File  		   26096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MG_Chin_DMH_MA.GR2100%  
 	    New File  		  191064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_ME_Jaw_DMH_MD_L.GR2100%  
 	    New File  		  191064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_ME_Jaw_DMH_MD_R.GR2100%  
 	    New File  		  191064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MF_Jaw_DMH_MD_L.GR2100%  
@@ -884,10 +884,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   22208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Chin_MA.GR2100%  
 	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA.GR2100%  
 	    New File  		  290224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_MA_Mangled\DGB_M_NKD_Head_D_EL_Top_MA_R.GR2100%  
-	    New File  		  185316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.GR2100%  
-	    New File  		  185412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.GR2100%  
 	    New File  		  990076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL.GR2100%  
 	    New File  		  990524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_D_EL_Mangled\DGB_M_NKD_Head_D_EL_R.GR2100%  
+	    New File  		  185316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD.GR2100%  
+	    New File  		  185412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Mangled\DGB_M_NKD_Head_D_EL_Jaw_MD_R.GR2  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -898,9 +898,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           650884705 Bytes/sec.
-   Speed :           37243.921 MegaBytes/min.
-   Ended : Wednesday, November 26, 2025 11:51:05 PM
+   Speed :            67883680 Bytes/sec.
+   Speed :            3884.335 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:03:50 AM
 
  
 [DEBUG] Counting source files 
