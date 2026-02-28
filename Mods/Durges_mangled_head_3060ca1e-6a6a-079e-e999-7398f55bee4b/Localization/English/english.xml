@@ -2,8 +2,8 @@
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="hba204394g2bb6g8554gbe91g9a96d01a7aff" version="1">Mangled Head L</content>
   <content contentuid="he2915dbeg9edegc9b3g432cgaef0f181e104" version="1">Mangled Head R</content>
-  <content contentuid="h106ff5ebgf996g6913g31dcg07a778b70eea" version="1">Mangled Arcuate</content>
-  <content contentuid="h4999f5e6gb9e7g57cag1ee3g72423e4e8376" version="1">Mangled Arcuate</content>
+  <content contentuid="h106ff5ebgf996g6913g31dcg07a778b70eea" version="2">Mangled Arcuate L</content>
+  <content contentuid="h4999f5e6gb9e7g57cag1ee3g72423e4e8376" version="2">Mangled Arcuate R</content>
   <content contentuid="h083f842aga4d8g10a6g2f18g6ce8c53757b2" version="2">Mangled Jaw L</content>
   <content contentuid="hd917d653g6186g02adg52b7g7361675ffeb6" version="2">Mangled Jaw R</content>
   <content contentuid="h7db3d9ceg443eg029cg8da3ga5e34c630029" version="1">Mangled Chin </content>
@@ -146,8 +146,8 @@
   <content contentuid="h8245b5c2g8412gb153g7a4dg638e7dab37d5" version="1">Mangled Tail Long L</content>
   <content contentuid="h9b96eca1gd399g1b6ege7ecgaafe2ea80d40" version="2">Mangled Head Stripes Scar L</content>
   <content contentuid="h43ad165bg06acg18d3g1ed5ge80f831992df" version="2">Mangled Head Stripes Scar R</content>
-  <content contentuid="h51c95899gf5efg5c15gbaccgb8972ce217d4" version="1">Mangled Arcuate</content>
-  <content contentuid="hd7360771g8fadg0727g2b8dgf98fd2ac4a0c" version="1">Mangled Arcuate</content>
+  <content contentuid="h51c95899gf5efg5c15gbaccgb8972ce217d4" version="2">Mangled Arcuate R</content>
+  <content contentuid="hd7360771g8fadg0727g2b8dgf98fd2ac4a0c" version="2">Mangled Arcuate L</content>
   <content contentuid="hc5f6d2e1g3b16g62a6g2e5fg7fae2c6d3929" version="1">Mangled Jaw L</content>
   <content contentuid="h42d50611g63bfg2d50ga64ag465a8dcf184f" version="1">Mangled Jaw R</content>
   <content contentuid="hccd26c29g0c03g2fdeg2ba0g5a683a7920c3" version="1">Mangled Chin </content>
@@ -234,8 +234,8 @@
   <content contentuid="h59246a1dg5f73gfca2gf671g93ebadab3b2f" version="1">No Jaw</content>
   <content contentuid="h052c5114gd862geabeg2c43g5e86698907fc" version="1">No Crest</content>
   <content contentuid="hbc869cefg1be7g136agb98agac1d28d6293d" version="1">Mangled Jaw L</content>
-  <content contentuid="h55630343gdd6cg7ff6g435fg03d164b7a3fe" version="1">Mangled Arcuate</content>
-  <content contentuid="h3f49d50fgca2bg2faegf037g5f807683416d" version="1">Mangled Arcuate</content>
+  <content contentuid="h55630343gdd6cg7ff6g435fg03d164b7a3fe" version="2">Mangled Arcuate R</content>
+  <content contentuid="h3f49d50fgca2bg2faegf037g5f807683416d" version="2">Mangled Arcuate L</content>
   <content contentuid="h7b27dedag5ac3g7776g0907g868acd26ab97" version="1">Arcuate</content>
   <content contentuid="hec124a50gaec9gbc83g18e5g16deed1a679a" version="1">Closing Claws</content>
   <content contentuid="hdfe54d9bg3cefg910bg2690gd7b5cc438abe" version="1">Goblet Handles</content>
@@ -275,4 +275,14 @@
   <content contentuid="h3c463fb8g4b4fg7e9fgd85eg25a330bf454c" version="1">No Crest</content>
   <content contentuid="h6ad79de4gf6beg92b2g0c9ag68e23f17d564" version="1">No Jaw</content>
   <content contentuid="h1b78c6e7ge212g944dg5e31g4d128e7611a2" version="1">No Chin</content>
+  <content contentuid="haa03cefag7977g4733g0a82g9ac2c15d802c" version="1">Mangled Arcuate R</content>
+  <content contentuid="hcf9657bcgf15cg871egc021g03361a165226" version="1">Mangled Arcuate L</content>
+  <content contentuid="h8441153fg6cc4g0a7cge72egad0ffa7a846c" version="1">Mangled Arcuate R</content>
+  <content contentuid="h48e3ff78g8dfcga4f0g644bgfa248e297361" version="1">Mangled Arcuate L</content>
+  <content contentuid="hc0c37aa1g3841ga539g7274g826119b29e5a" version="1">Mangled Jaw L</content>
+  <content contentuid="h204862cbgb46egedf8gf529gd06fc1d28c4b" version="1">Mangled Jaw R</content>
+  <content contentuid="hb334e9f5gdab9gabeeg7f57g9c9e16d958c4" version="2">Mangled Arcuate L</content>
+  <content contentuid="hc6c28324g4081g5e6fg63a6gbc2113f68b28" version="2">Mangled Arcuate R</content>
+  <content contentuid="h30f3fdb2gbeb7g6ac8g5effg2a59a34e82ed" version="1">Mangled Jaw L</content>
+  <content contentuid="h6aac8e13gd27cg66f6g1e07g23bc637d19eb" version="1">Mangled Jaw R</content>
 </contentList>
