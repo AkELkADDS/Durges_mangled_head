@@ -144,8 +144,8 @@
   <content contentuid="he6a0c805g36a2g608bgea19g1a107a709282" version="1">Mangled Tail L</content>
   <content contentuid="ha247262ag09ddgce94g922cgfa98b0f56b74" version="1">Mangled Tail Long R</content>
   <content contentuid="h8245b5c2g8412gb153g7a4dg638e7dab37d5" version="1">Mangled Tail Long L</content>
-  <content contentuid="h9b96eca1gd399g1b6ege7ecgaafe2ea80d40" version="1">Mangled Head Big Scar L</content>
-  <content contentuid="h43ad165bg06acg18d3g1ed5ge80f831992df" version="1">Mangled Head Big Scar R</content>
+  <content contentuid="h9b96eca1gd399g1b6ege7ecgaafe2ea80d40" version="2">Mangled Head Stripes Scar L</content>
+  <content contentuid="h43ad165bg06acg18d3g1ed5ge80f831992df" version="2">Mangled Head Stripes Scar R</content>
   <content contentuid="h51c95899gf5efg5c15gbaccgb8972ce217d4" version="1">Mangled Arcuate</content>
   <content contentuid="hd7360771g8fadg0727g2b8dgf98fd2ac4a0c" version="1">Mangled Arcuate</content>
   <content contentuid="hc5f6d2e1g3b16g62a6g2e5fg7fae2c6d3929" version="1">Mangled Jaw L</content>
@@ -226,4 +226,53 @@
   <content contentuid="h507acbc5ge479gb8e4g2054g1a3315751476" version="1">Pinnacle</content>
   <content contentuid="h818023edg0652g5c65ge5ccgd9b72887525a" version="1">Apogee</content>
   <content contentuid="hf39edda7g5312g443bga218gb878d407565b" version="1">Hatchet Spike</content>
+  <content contentuid="h0b9419c6g5b4fge28eg5a00g2cc407db4419" version="1">Mangled Head Stripes</content>
+  <content contentuid="h82cce488ga6a6g9bf1gfd4egf6b1e7c74b65" version="1">Mangled Arcuate</content>
+  <content contentuid="hbdec0287g8f3dg8505g7eb2g29ef9985ea6d" version="1">Mangled Jaw L</content>
+  <content contentuid="h56627961gd321g474bg87a8gdece4c252103" version="1">Mangled Chin </content>
+  <content contentuid="h0a0fd84eg1c57g57b7gfc61gc0d79f25944f" version="1">No Chin</content>
+  <content contentuid="h59246a1dg5f73gfca2gf671g93ebadab3b2f" version="1">No Jaw</content>
+  <content contentuid="h052c5114gd862geabeg2c43g5e86698907fc" version="1">No Crest</content>
+  <content contentuid="hbc869cefg1be7g136agb98agac1d28d6293d" version="1">Mangled Jaw L</content>
+  <content contentuid="h55630343gdd6cg7ff6g435fg03d164b7a3fe" version="1">Mangled Arcuate</content>
+  <content contentuid="h3f49d50fgca2bg2faegf037g5f807683416d" version="1">Mangled Arcuate</content>
+  <content contentuid="h7b27dedag5ac3g7776g0907g868acd26ab97" version="1">Arcuate</content>
+  <content contentuid="hec124a50gaec9gbc83g18e5g16deed1a679a" version="1">Closing Claws</content>
+  <content contentuid="hdfe54d9bg3cefg910bg2690gd7b5cc438abe" version="1">Goblet Handles</content>
+  <content contentuid="h2e6c1dc3g1aeag790agbffdgf5ef428b830a" version="1">Quilled Wedge</content>
+  <content contentuid="h51faa59bg3f7eg8b1bgf27eg7cf4aca0933e" version="1">Malformed Apex</content>
+  <content contentuid="h8abf0f69gbf03gf05ag149agabf4bf220d2b" version="1">Ophidian</content>
+  <content contentuid="h275b53cfg0e99g4468geb9agc714af226b87" version="1">Reptile Frills</content>
+  <content contentuid="h6a0fb608g2f72ged8cg8a75g4221a4136322" version="1">Predacious Crest</content>
+  <content contentuid="h627312cfga056g14e0gd152g35bccc7375e7" version="1">Spinous Crown</content>
+  <content contentuid="h0c68e42dgcb96g92b9g7945g4b2308c8fe9f" version="1">Halberd Blades</content>
+  <content contentuid="hb3c53247g247dgef8cga073gb1bd3d351089" version="1">Proud Phalanx</content>
+  <content contentuid="hcb9af34ag972dge5e4gfcb0ge2a5aa9954f8" version="1">Malefic</content>
+  <content contentuid="h95b9bb22g0980g8385g77e0g4bfc553f5f9d" version="1">Inverse Crown</content>
+  <content contentuid="h91a22078g4616g14d8gdb98g3cd0699e91c9" version="1">Concise Strength</content>
+  <content contentuid="h8ab90d18gff7fg13d4g046cga490c9ed4215" version="1">Nest o' Needles</content>
+  <content contentuid="h7c213f3fg941bgd522gb1f4g3b6c5d1197b7" version="1">Dragonglass</content>
+  <content contentuid="h6213a2d8gc15fgae4dg0499g631afe2225e5" version="1">Shark Fins</content>
+  <content contentuid="hc0b2c77cg5536g2989g8002ga62626141249" version="1">Taunting Stylus</content>
+  <content contentuid="hffedbb17g5f81g7974gc004g1b4eb51c2222" version="1">Coral Ridges</content>
+  <content contentuid="hbdbef1a0g7a74g3293g5746geb6646136c17" version="1">Porcupine Chops</content>
+  <content contentuid="h9ec2b78fg33f9g790dge9f1g2e9ef0f67e33" version="1">Jaws of Ruin</content>
+  <content contentuid="hb472a14ag92afg931cga043g823ff0a11b52" version="1">Sombre Calamity</content>
+  <content contentuid="h81a68facg99cagebacgd89bg0f9c22135044" version="1">Royal Plateau</content>
+  <content contentuid="he049596ag2183g6010gc55bg117d5e696094" version="1">Dagger Pommel</content>
+  <content contentuid="h33f1ead0gdad2g9dc0gbe79g0a41036f57e6" version="1">Calcified</content>
+  <content contentuid="hbe20ee9egfb6eg9825gf22agc0113343cd0e" version="1">Chintacle</content>
+  <content contentuid="h33a9d325g8e1cgee10g6784g218102adda02" version="1">Waltzing Fangs</content>
+  <content contentuid="h2c6c290eg25dfgfbd1ge33agd88c2ba26171" version="1">Stentorian</content>
+  <content contentuid="h58ffcd59gba18g4b97g09b7gf3ed57aab4d3" version="1">Cliff Jut</content>
+  <content contentuid="hbb11afe9g5329gfd9ege739g86035ebc906e" version="1">Jewel Point</content>
+  <content contentuid="he82e0ebcg02a8g8eddg5070gfcd62122c1ca" version="1">Stalactite</content>
+  <content contentuid="hcc29763fg70f3gae25ga369g1a511f0aac3b" version="1">Pinnacle</content>
+  <content contentuid="hd5415e45gdc52gbd97gd8cagd4619dce273d" version="1">Apogee</content>
+  <content contentuid="h06e3c7a1gfbdcg6508g15e0g8c13966b9848" version="1">Hatchet Spike</content>
+  <content contentuid="h60b4e324g2f24g5443gc01fg893dd1faad94" version="1">Mangled Jaw R</content>
+  <content contentuid="h52b6574cge9cfgdb22g0429g5a7c1188dd9c" version="1">Mangled Chin </content>
+  <content contentuid="h3c463fb8g4b4fg7e9fgd85eg25a330bf454c" version="1">No Crest</content>
+  <content contentuid="h6ad79de4gf6beg92b2g0c9ag68e23f17d564" version="1">No Jaw</content>
+  <content contentuid="h1b78c6e7ge212g944dg5e31g4d128e7611a2" version="1">No Chin</content>
 </contentList>
