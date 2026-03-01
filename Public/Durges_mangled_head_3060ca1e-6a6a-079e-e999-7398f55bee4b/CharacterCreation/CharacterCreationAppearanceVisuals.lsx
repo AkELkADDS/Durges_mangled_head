@@ -1403,18 +1403,8 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0b9419c6g5b4fge28eg5a00g2cc407db4419" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_L_1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Head"/>
-                    <attribute id="UUID" type="guid" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56"/>
-                    <attribute id="VisualResource" type="guid" value="a0f2f986-4f5a-4383-adc7-b55523d08dd4"/>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9b96eca1gd399g1b6ege7ecgaafe2ea80d40" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_L_1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_SB_L_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="ac1d3e3f-6707-42d0-ab5f-02d1284bc116"/>
@@ -1424,11 +1414,21 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h43ad165bg06acg18d3g1ed5ge80f831992df" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_R_1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_SB_R_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
                     <attribute id="VisualResource" type="guid" value="f76dc93b-cbce-4db7-b1f9-cb3dfbadf1b3"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0b9419c6g5b4fge28eg5a00g2cc407db4419" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Head_SC_1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56"/>
+                    <attribute id="VisualResource" type="guid" value="a0f2f986-4f5a-4383-adc7-b55523d08dd4"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>

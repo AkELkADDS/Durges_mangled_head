@@ -1888,20 +1888,6 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FZ_Tail_DMH_C_Long_L" />
       </fields>
     </stat_object>
-    <stat_object color="#FF2F4F4F" is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_131" />
-        <field name="UUID" type="IdTableFieldDefinition" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0b9419c6g5b4fge28eg5a00g2cc407db4419" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_L_1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="a0f2f986-4f5a-4383-adc7-b55523d08dd4" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_DMH_B_S_SC" />
-      </fields>
-    </stat_object>
     <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1125" />
@@ -1911,7 +1897,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9b96eca1gd399g1b6ege7ecgaafe2ea80d40" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_L_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_SB_L_1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="61ca09f6-f0f2-40e2-a6b5-1b22327e16f5" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_DMH_B_S_SB_L" />
       </fields>
@@ -1925,9 +1911,23 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h43ad165bg06acg18d3g1ed5ge80f831992df" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_R_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_SB_R_1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f76dc93b-cbce-4db7-b1f9-cb3dfbadf1b3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_DMH_B_S_SB_R" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_131" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0b9419c6g5b4fge28eg5a00g2cc407db4419" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Head_SC_1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a0f2f986-4f5a-4383-adc7-b55523d08dd4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_DMH_B_S_SC" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
