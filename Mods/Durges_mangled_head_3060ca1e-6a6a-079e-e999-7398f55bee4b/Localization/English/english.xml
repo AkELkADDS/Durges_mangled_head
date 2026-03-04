@@ -148,8 +148,8 @@
   <content contentuid="h43ad165bg06acg18d3g1ed5ge80f831992df" version="2">Mangled Head Stripes Scar R</content>
   <content contentuid="h51c95899gf5efg5c15gbaccgb8972ce217d4" version="2">Mangled Arcuate R</content>
   <content contentuid="hd7360771g8fadg0727g2b8dgf98fd2ac4a0c" version="2">Mangled Arcuate L</content>
-  <content contentuid="hc5f6d2e1g3b16g62a6g2e5fg7fae2c6d3929" version="1">Mangled Jaw L</content>
-  <content contentuid="h42d50611g63bfg2d50ga64ag465a8dcf184f" version="1">Mangled Jaw R</content>
+  <content contentuid="hc5f6d2e1g3b16g62a6g2e5fg7fae2c6d3929" version="2">Mangled Jaw L Chipped</content>
+  <content contentuid="h42d50611g63bfg2d50ga64ag465a8dcf184f" version="2">Mangled Jaw R Chipped</content>
   <content contentuid="hccd26c29g0c03g2fdeg2ba0g5a683a7920c3" version="1">Mangled Chin </content>
   <content contentuid="h2118609fg3e6eg012cga685gfd48af5d9fdc" version="1">Mangled Chin </content>
   <content contentuid="h995f2cfeg0111g82ddgb1efgb1b738d06732" version="1">No Chin</content>
@@ -285,4 +285,11 @@
   <content contentuid="hc6c28324g4081g5e6fg63a6gbc2113f68b28" version="2">Mangled Arcuate R</content>
   <content contentuid="h30f3fdb2gbeb7g6ac8g5effg2a59a34e82ed" version="1">Mangled Jaw L</content>
   <content contentuid="h6aac8e13gd27cg66f6g1e07g23bc637d19eb" version="1">Mangled Jaw R</content>
+  <content contentuid="h3f17c44eg47e3g7017ge0e5g515a20496b7b" version="1">Mangled Jaw L</content>
+  <content contentuid="he112bb10g75f0g507dg6dbfgf89396b69fee" version="1">Mangled Jaw R</content>
+  <content contentuid="h4b90cdbfg2686g2e90g9d35g4c472a4c6846" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="h0258d4e1g3dedg6f6bg5e95g5042f2c4c47e" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="h37c403bdg9c23gaa3fg8456ga1fce7432b4d" version="1">Mangled Jaw Short</content>
+  <content contentuid="hbb1cd48fgc596g53a3g2091gb1f3d765e086" version="1">Mangled Jaw Short</content>
+  <content contentuid="h70812760g16f3gdcc6gf4d1g1578c432d3a5" version="1">Mangled Jaw Short</content>
 </contentList>
