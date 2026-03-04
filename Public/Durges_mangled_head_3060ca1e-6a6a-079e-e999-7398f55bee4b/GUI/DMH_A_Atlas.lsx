@@ -96,9 +96,23 @@
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_MA_InverseCrown_Short"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_MC_ConciseStrenght"/>
                     <attribute id="U1" type="float" value="0.12548828"/>
                     <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Short"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
                     <attribute id="V1" type="float" value="0.50048828"/>
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
@@ -110,11 +124,25 @@
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_MD_NestONeedles_Short"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_ME_Dragonglass"/>
                     <attribute id="U1" type="float" value="0.37548828"/>
                     <attribute id="U2" type="float" value="0.49951172"/>
                     <attribute id="V1" type="float" value="0.50048828"/>
                     <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_ME_Dragonglass_Short"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.62548828"/>
+                    <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Jaw_MG_SharkFins"/>

@@ -1522,12 +1522,45 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3f17c44eg47e3g7017ge0e5g515a20496b7b" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="ac1d3e3f-6707-42d0-ab5f-02d1284bc116"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_L_1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="41b4551f-5312-4a64-bc4e-10af018c308d"/>
+                    <attribute id="VisualResource" type="guid" value="dc416113-c740-466d-ad9c-f64f4ec346f4"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h42d50611g63bfg2d50ga64ag465a8dcf184f" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="3d2f4539-aaa0-49d5-a6ed-6eeb694f2e56"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Chipped"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="112a0497-f378-4f22-b378-61bcf3225130"/>
+                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he112bb10g75f0g507dg6dbfgf89396b69fee" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="3fffe862-9750-4f8e-82cb-0abe885953d3"/>
+                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0258d4e1g3dedg6f6bg5e95g5042f2c4c47e" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Chipped"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="e314d19b-d3e3-415e-8bda-63250a5dd0d2"/>
                     <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1544,12 +1577,45 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b90cdbfg2686g2e90g9d35g4c472a4c6846" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_L_1_Chipped"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="c1c112aa-da4c-46a6-b72d-b9052c9605d1"/>
+                    <attribute id="VisualResource" type="guid" value="dc416113-c740-466d-ad9c-f64f4ec346f4"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h204862cbgb46egedf8gf529gd06fc1d28c4b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="ac1d3e3f-6707-42d0-ab5f-02d1284bc116"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="850671e2-45db-4abe-8525-14b9ff2dae66"/>
+                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h37c403bdg9c23gaa3fg8456ga1fce7432b4d" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="d1f0c074-4ebf-4172-935e-ea046d17156f"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="78a669b1-5b89-4429-9cbb-b070eb29b20f"/>
+                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbb1cd48fgc596g53a3g2091gb1f3d765e086" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="1b9fafea-515c-4347-8a98-03e105c44945"/>
                     <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2769,6 +2835,17 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h70812760g16f3gdcc6gf4d1g1578c432d3a5" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="1e09bdec-dc64-4b99-82ef-9f3e1be38f3f"/>
+                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6ad79de4gf6beg92b2g0c9ag68e23f17d564" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DMH_CrestTop_None_1"/>
@@ -2802,79 +2879,130 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3f17c44eg47e3g7017ge0e5g515a20496b7b" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="ac1d3e3f-6707-42d0-ab5f-02d1284bc116"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_L_1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7615bbc7g8078g228bg3c09g9adf23c4bb5d" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="41b4551f-5312-4a64-bc4e-10af018c308d"/>
-                    <attribute id="VisualResource" type="guid" value="dc416113-c740-466d-ad9c-f64f4ec346f4"/>
+                    <attribute id="UUID" type="guid" value="f88e3873-6c2c-48f6-bdfc-46223f7c6ee4"/>
+                    <attribute id="VisualResource" type="guid" value="8af46ed1-a234-4cdb-8030-8a95455b04f4"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="he112bb10g75f0g507dg6dbfgf89396b69fee" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he7a4114agcfddgcb8fg1f72g516ffa69f33a" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="3fffe862-9750-4f8e-82cb-0abe885953d3"/>
-                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                    <attribute id="UUID" type="guid" value="082bd650-f081-4c0a-be96-da3ee0e3f6e2"/>
+                    <attribute id="VisualResource" type="guid" value="84ab5cea-2ee9-4856-9cc6-93913db7840c"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4b90cdbfg2686g2e90g9d35g4c472a4c6846" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_L_1_Chipped"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7f53c78fg9154g5241g0b08gb768197333c1" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MD_NestONeedles_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="c1c112aa-da4c-46a6-b72d-b9052c9605d1"/>
-                    <attribute id="VisualResource" type="guid" value="dc416113-c740-466d-ad9c-f64f4ec346f4"/>
+                    <attribute id="UUID" type="guid" value="065b6c01-0fb3-4096-b9c3-1fee052bfe7f"/>
+                    <attribute id="VisualResource" type="guid" value="ee934d0b-ca8d-4be1-bea2-c3e63f01ff87"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0258d4e1g3dedg6f6bg5e95g5042f2c4c47e" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Chipped"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfc205903gc604gd065g75f2gdcaa956451be" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_ME_Dragonglass_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="e314d19b-d3e3-415e-8bda-63250a5dd0d2"/>
-                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                    <attribute id="UUID" type="guid" value="53c2c1fb-eee7-42ff-bd33-1b0841fe245c"/>
+                    <attribute id="VisualResource" type="guid" value="f53afc72-89a9-4a2e-a470-9f957c2bcc13"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h37c403bdg9c23gaa3fg8456ga1fce7432b4d" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="d1f0c074-4ebf-4172-935e-ea046d17156f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h234ca4efg4b91g78d7gdd54ge45ba3df0449" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="78a669b1-5b89-4429-9cbb-b070eb29b20f"/>
-                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                    <attribute id="UUID" type="guid" value="ac694651-115c-4355-973e-602500fbe77c"/>
+                    <attribute id="VisualResource" type="guid" value="15f4f58b-bc49-4226-be7e-b58292b7d2a6"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hbb1cd48fgc596g53a3g2091gb1f3d765e086" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="646f2534-7dd0-4bfc-ac92-4ad7938177e2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1c83c995g23eeg0361g7d17g4423987b0a9a" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="22c6b8af-04a8-4fee-9196-21a519e02f78"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="1b9fafea-515c-4347-8a98-03e105c44945"/>
-                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                    <attribute id="UUID" type="guid" value="35b3a228-e741-441d-b025-d8c078177808"/>
+                    <attribute id="VisualResource" type="guid" value="8c021a13-a2f4-4a4d-8342-ce56ee920e0c"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h70812760g16f3gdcc6gf4d1g1578c432d3a5" version="1"/>
-                    <attribute id="HeadAppearanceUUID" type="guid" value="0d0ba554-6d37-4910-b9ed-c0444efbdd56"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Jaw_Mangled_1_Short"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9593db6ag52b5gee96g4de1gcc293631c5e3" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
-                    <attribute id="UUID" type="guid" value="1e09bdec-dc64-4b99-82ef-9f3e1be38f3f"/>
-                    <attribute id="VisualResource" type="guid" value="1252aa2d-428f-4408-bac2-f54fb0743f82"/>
+                    <attribute id="UUID" type="guid" value="13094532-f8cf-4ae3-8d64-4bfdf7a99ab3"/>
+                    <attribute id="VisualResource" type="guid" value="8af46ed1-a234-4cdb-8030-8a95455b04f4"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he516eba2gcff2g64c2g3a4cg664af8f0b9bc" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="cec6383b-28d7-4d40-938b-5fce8650d0e5"/>
+                    <attribute id="VisualResource" type="guid" value="84ab5cea-2ee9-4856-9cc6-93913db7840c"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ae3c0e4gf39bg594cg4778g44cf89728110" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_MD_NestONeedles_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="5f9cff6d-e16c-4d9e-8198-f50208006428"/>
+                    <attribute id="VisualResource" type="guid" value="ee934d0b-ca8d-4be1-bea2-c3e63f01ff87"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2c5aef34gf806g1275g72bfg2415d469b17d" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_ME_Dragonglass_Short"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="b7950466-342d-4f5a-b5d9-75f9b89b45de"/>
+                    <attribute id="VisualResource" type="guid" value="f53afc72-89a9-4a2e-a470-9f957c2bcc13"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h75bdf0cdge93egaba0gf493g6f17cd83b4d3" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="ef414e4d-9d82-4fc2-8484-100626dcbd0b"/>
+                    <attribute id="VisualResource" type="guid" value="15f4f58b-bc49-4226-be7e-b58292b7d2a6"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b0967d1g3a39g117bg7210g96ad8f013b7b" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="fe98348a-8d2d-45b4-b3f7-f5fd0c688243"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="13814126-c42c-4222-9fc0-6ba4c5cc802d"/>
+                    <attribute id="VisualResource" type="guid" value="8c021a13-a2f4-4a4d-8342-ce56ee920e0c"/>
                 </node>
             </children>
         </node>
