@@ -289,9 +289,9 @@
   <content contentuid="he112bb10g75f0g507dg6dbfgf89396b69fee" version="1">Mangled Jaw R</content>
   <content contentuid="h4b90cdbfg2686g2e90g9d35g4c472a4c6846" version="1">Mangled Jaw L Chipped</content>
   <content contentuid="h0258d4e1g3dedg6f6bg5e95g5042f2c4c47e" version="1">Mangled Jaw R Chipped</content>
-  <content contentuid="h37c403bdg9c23gaa3fg8456ga1fce7432b4d" version="1">Mangled Jaw Short</content>
-  <content contentuid="hbb1cd48fgc596g53a3g2091gb1f3d765e086" version="1">Mangled Jaw Short</content>
-  <content contentuid="h70812760g16f3gdcc6gf4d1g1578c432d3a5" version="1">Mangled Jaw Short</content>
+  <content contentuid="h37c403bdg9c23gaa3fg8456ga1fce7432b4d" version="2">Mangled Jaw Short L</content>
+  <content contentuid="hbb1cd48fgc596g53a3g2091gb1f3d765e086" version="2">Mangled Jaw Short L</content>
+  <content contentuid="h70812760g16f3gdcc6gf4d1g1578c432d3a5" version="2">Mangled Jaw Short L</content>
   <content contentuid="h7615bbc7g8078g228bg3c09g9adf23c4bb5d" version="1">Inverse Crown Short</content>
   <content contentuid="he7a4114agcfddgcb8fg1f72g516ffa69f33a" version="1">Concise Strength Short</content>
   <content contentuid="h7f53c78fg9154g5241g0b08gb768197333c1" version="1">Nest o' Needles Short</content>
@@ -304,4 +304,10 @@
   <content contentuid="h2c5aef34gf806g1275g72bfg2415d469b17d" version="1">Dragonglass Short</content>
   <content contentuid="h75bdf0cdge93egaba0gf493g6f17cd83b4d3" version="1">Jaws of Ruin Short</content>
   <content contentuid="h1b0967d1g3a39g117bg7210g96ad8f013b7b" version="1">Royal Plateau Short</content>
+  <content contentuid="h5b597abfgb2adgfa55gb257gb9bc678a55a2" version="1">Mangled Jaw Short R</content>
+  <content contentuid="h17d21accgf132gf812ga502gaf8f6233c0ff" version="1">Mangled Jaw Short</content>
+  <content contentuid="h271f2d67gd271g0ef7g9be6ga286270f3574" version="1">Mangled Jaw Short R</content>
+  <content contentuid="h2c356733gcc61g2734g2b62g5f13556e06fe" version="1">Mangled Jaw Short R</content>
+  <content contentuid="h201d9bfcgba78g0fedg0158gfc1048ade6b3" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="h319c3655gd994g92c2gfb5eg5c2047a41410" version="1">Mangled Jaw R Chipped</content>
 </contentList>

@@ -404,6 +404,13 @@
                     <attribute id="V2" type="float" value="0.37451172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DMH_Jaw_Mangled_1_Short_L"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.87548828"/>
+                    <attribute id="V2" type="float" value="0.99951172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DMH_Jaw_Mangled_L_1"/>
                     <attribute id="U1" type="float" value="0.00048828125"/>
                     <attribute id="U2" type="float" value="0.12451172"/>
