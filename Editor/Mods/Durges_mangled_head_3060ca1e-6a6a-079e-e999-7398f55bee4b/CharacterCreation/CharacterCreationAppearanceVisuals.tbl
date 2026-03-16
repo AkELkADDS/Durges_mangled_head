@@ -5705,6 +5705,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c22d4b2g71c6g46cfg490egd85591abdaf4" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Valtheris_Head_C" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -5718,6 +5719,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h65a3f30dg4b8cg2288g7956g6adba1ff6d8e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_B_L" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Valtheris_Head_B_L" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -5731,6 +5733,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ec6e3fegac92gdf0eg9e6fg33178ff6d25e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_B_R" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Valtheris_Head_B_R" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

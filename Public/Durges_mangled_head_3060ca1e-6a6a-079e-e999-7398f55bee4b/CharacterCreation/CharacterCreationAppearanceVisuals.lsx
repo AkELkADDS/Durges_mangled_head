@@ -4252,6 +4252,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0c22d4b2g71c6g46cfg490egd85591abdaf4" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Valtheris_Head_C"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c"/>
@@ -4261,6 +4262,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h65a3f30dg4b8cg2288g7956g6adba1ff6d8e" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Valtheris_Head_B_L"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="ce5f0740-d405-4126-ae40-08a68627d2a1"/>
@@ -4270,6 +4272,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0ec6e3fegac92gdf0eg9e6fg33178ff6d25e" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Valtheris_Head_B_R"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="68121e3c-eb88-42c9-8ed5-3fadd4b75fd9"/>
