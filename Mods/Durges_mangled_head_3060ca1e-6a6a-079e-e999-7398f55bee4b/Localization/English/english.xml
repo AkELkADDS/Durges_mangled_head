@@ -411,9 +411,9 @@
   <content contentuid="hbcf51cf4g9c0agc231g0dc0g3ad90061386b" version="1">No Crest</content>
   <content contentuid="h9b558b4cgb7d3gf6dbgf12agedf22ab7bc90" version="1">No Crest</content>
   <content contentuid="h0c22d4b2g71c6g46cfg490egd85591abdaf4" version="1">Valtheris</content>
-  <content contentuid="h465dcfe8gcdb3g6a59g7164g594905297ecf" version="1">Valtheris Crest</content>
+  <content contentuid="h465dcfe8gcdb3g6a59g7164g594905297ecf" version="2">Malefic</content>
   <content contentuid="hd7ac0930g771cg24a3gb1e2g393e3a124ded" version="1">Royal Plateau Short</content>
-  <content contentuid="h346febffg6708g025fg5206g5b20043aa972" version="1">Valtheris Chin</content>
+  <content contentuid="h346febffg6708g025fg5206g5b20043aa972" version="2">Apogee</content>
   <content contentuid="h6357421dg08b3g1e1ag1e4agf1c6a4e42587" version="1">No Chin</content>
   <content contentuid="h70850a5ag4571g4dc5ge14cg595458502593" version="1">No Jaw</content>
   <content contentuid="h13a516a4g7802g7c61gd251gb13fffd615c9" version="1">No Crest</content>
@@ -456,4 +456,92 @@
   <content contentuid="ha3c6956dgadedgace6g8222g1849b280a1c0" version="1">Pinnacle</content>
   <content contentuid="ha0bd1249ga30bg18ccg9be1g222d308cfd68" version="1">Apogee</content>
   <content contentuid="h414c5b29gede6g0457gf927gaa97b07d92d9" version="1">Hatchet Spike</content>
+  <content contentuid="h65a3f30dg4b8cg2288g7956g6adba1ff6d8e" version="1">Valtheris Mangled L</content>
+  <content contentuid="h0ec6e3fegac92gdf0eg9e6fg33178ff6d25e" version="1">Valtheris Mangled R</content>
+  <content contentuid="h4f160469g32a7g330bg7a62ga060f8ac9d48" version="2">Malefic</content>
+  <content contentuid="ha4bb91c0g37a6gb52fg354bg6a60ad9abcc8" version="1">Royal Plateau Short</content>
+  <content contentuid="h2cf5f556ga379g701fg6891ge3cf3da0e73c" version="2">Apogee</content>
+  <content contentuid="h5eaff4f4g82ddge388g947dg89ceafb0d0fc" version="1">No Chin</content>
+  <content contentuid="h708d095ag6af2g6956g9870g4a444187a8cd" version="1">No Jaw</content>
+  <content contentuid="h8e557fe6gf619gb5d1g88d1g80df5ace9874" version="1">No Crest</content>
+  <content contentuid="h9945bfb2ge857g4995gdc9dgf335f1b5bdf6" version="1">Arcuate</content>
+  <content contentuid="h2dd5b93bg5c69gc2f3gb192g70c05aa48948" version="1">Closing Claws</content>
+  <content contentuid="h5a444871gbbfbg4b3ega955gc7750f70ae8a" version="1">Goblet Handles</content>
+  <content contentuid="h7d128f69g5698g3f34g2c47g36ecd1dd7813" version="1">Quilled Wedge</content>
+  <content contentuid="h2c6c805fg120agd5b4ga476g222e8d1195af" version="1">Malformed Apex</content>
+  <content contentuid="hfe38e673g2ef9g463eg9a74g36a2c9184d39" version="1">Ophidian</content>
+  <content contentuid="h0c3ee952g6e47g37d0gc6b0gc6131674b1af" version="1">Reptile Frills</content>
+  <content contentuid="h9c3cb642g24f1g43d5gff90g00ac5c4d8f22" version="1">Predacious Crest</content>
+  <content contentuid="h10339b8dga6afg048fg7fa7g6833abdb942e" version="1">Spinous Crown</content>
+  <content contentuid="ha5b346e5g4456gb7c6gedeeg666f738823a6" version="1">Halberd Blades</content>
+  <content contentuid="h7caf48eag6c0dg5752g7849g27dc62e63784" version="1">Proud Phalanx</content>
+  <content contentuid="hf45f9936g32fdg7661g28a7gff726d76db9c" version="1">Inverse Crown</content>
+  <content contentuid="h8d63a13cgad42gf1c6g413eg41eb7e40f6de" version="1">Inverse Crown Short</content>
+  <content contentuid="hec6b228bg7287g38e8g54bdg3eb969a130c0" version="1">Concise Strength</content>
+  <content contentuid="h3e428abcg3416gbbcfgc582ga145c168a2d0" version="1">Concise Strength Short</content>
+  <content contentuid="h23b9c3fdge071g6aedg84b1g6331e03c9981" version="1">Nest o' Needles</content>
+  <content contentuid="hee80790agad4ag4bd1ga33eg805e9fde0214" version="1">Nest o' Needles Short</content>
+  <content contentuid="he363487bgdf2egb2f8g96c2ga9536eb3f2ac" version="1">Dragonglass</content>
+  <content contentuid="hb327ad1cg992bg2d00gb2d6g4edf8b3c8cb1" version="1">Dragonglass Short</content>
+  <content contentuid="h8c2bdf3dg000fga5b3ga73dgbe8d5cfa5f71" version="1">Shark Fins</content>
+  <content contentuid="he29c11d1g1fb2g8d21g732fg7f803e3a17b9" version="1">Taunting Stylus</content>
+  <content contentuid="h508d7b62gd959g9fc8gf7fcg35bab24f79e3" version="1">Coral Ridges</content>
+  <content contentuid="hf299b8f1g7d77gf8c4gbf50g8b1406e7ad48" version="1">Porcupine Chops</content>
+  <content contentuid="h107580dcg81eeg05f2gac8egb57563939806" version="1">Jaws of Ruin</content>
+  <content contentuid="h27506356g1948g0099g3957g5ba4b6b26536" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h75f72118gd1c1g481ege7dcgaf995944a817" version="1">Sombre Calamity</content>
+  <content contentuid="h475d8436g2540ge548g5c37g8e218318f6f1" version="1">Royal Plateau</content>
+  <content contentuid="hca6caa10g5133ge99fg76d5gd41545adaa5e" version="1">Dagger Pommel</content>
+  <content contentuid="h054f2bd8gb833gb611gb434g070d7ae58035" version="1">Calcified</content>
+  <content contentuid="h049e07a9g450ege38eg4935g7c1757bf9750" version="1">Chintacle</content>
+  <content contentuid="ha23d634bgd00egef17g3857gf9b22bd8b420" version="1">Waltzing Fangs</content>
+  <content contentuid="h50265f37g4294gd375g21bcg8bcc0e83cac3" version="1">Stentorian</content>
+  <content contentuid="h1439f562g545fg4064gb223g072fa385e042" version="1">Cliff Jut</content>
+  <content contentuid="ha2473c20gfa32g69bfg94d6g628d06e240b2" version="1">Jewel Point</content>
+  <content contentuid="h21c1cef0g96c6g12d8gdf40g4e2426c2d373" version="1">Stalactite</content>
+  <content contentuid="h2dbe8575g1f01g53bag8938g9815b715cfba" version="1">Pinnacle</content>
+  <content contentuid="hec8c0a9dgf269g523bgc466g52df5e61e218" version="1">Hatchet Spike</content>
+  <content contentuid="h6aa23033g0edfg31deg3272gc6aaf7e6655c" version="1">Malefic</content>
+  <content contentuid="hd8232fe1g64d3g9766gc976g17f4fbc7ef89" version="1">Royal Plateau Short</content>
+  <content contentuid="h4598d5fcg8117g241cg86beg12ffbaafe8bb" version="1">Apogee</content>
+  <content contentuid="h90fc842bg64d5g9c41ge5c6g5fc199e6b3a4" version="1">No Chin</content>
+  <content contentuid="heca019b7g2fecg08f7g5c8dg5a9dfd763b39" version="1">No Jaw</content>
+  <content contentuid="hc68731bagadc0ge0f9g668eg229b8fd9ad98" version="1">No Crest</content>
+  <content contentuid="hab22b8b1g255ag1b98gae54g54d4271fab61" version="1">Arcuate</content>
+  <content contentuid="h271a0002ge7f6gc428g9707gddfd739ce2b0" version="1">Closing Claws</content>
+  <content contentuid="hba731f5dgfc42gbe2fg0bebgf08e764d60cb" version="1">Goblet Handles</content>
+  <content contentuid="h3ad5b2c2gcd6bgbe1bg8be5g397dbab01ecb" version="1">Quilled Wedge</content>
+  <content contentuid="h46ed546fg48e6g1defg8c5ag4ec85c9dd66a" version="1">Malformed Apex</content>
+  <content contentuid="h570b0939g32fcga0c6g70beg479a11b7c700" version="1">Ophidian</content>
+  <content contentuid="h56a6e44cg76bagd1d9g0b38g9136a4aec674" version="1">Reptile Frills</content>
+  <content contentuid="hff6b12efg5daag238fgd905g010987161207" version="1">Predacious Crest</content>
+  <content contentuid="h39b7ee29g7f35g03b1ga3b0gbccdf7bdb41b" version="1">Spinous Crown</content>
+  <content contentuid="ha2843811ga83agcf27gc843gf741bef62236" version="1">Halberd Blades</content>
+  <content contentuid="h8f813ab7g64ffg4f3bg45d4ge2fd1088146e" version="1">Proud Phalanx</content>
+  <content contentuid="h5fc6292eg71b0g7a0bg9551gc9f1436ec9c4" version="1">Inverse Crown</content>
+  <content contentuid="h762ec95cgfa69g3711g7fd4g97af056ae47f" version="1">Inverse Crown Short</content>
+  <content contentuid="hb8530ca8gf558g1f07g9929gbd9f77bf507f" version="1">Concise Strength</content>
+  <content contentuid="hd75351b2ge176g2097g7b62gccc1b4be989b" version="1">Concise Strength Short</content>
+  <content contentuid="hc8640ae7g0450g7992g8b5bgf2655bd86afe" version="1">Nest o' Needles</content>
+  <content contentuid="hbfdd8f9bg8d53ge707gd538g578e928ca38c" version="1">Nest o' Needles Short</content>
+  <content contentuid="hcd23b882g0af1g6812gfab8ge9a7ec62d9b6" version="1">Dragonglass</content>
+  <content contentuid="haf183ae4g7db2g6e6egd43egbe7bace2bc3b" version="1">Dragonglass Short</content>
+  <content contentuid="h36f3747bgb71bg651agd06bgadf63a37ec60" version="1">Shark Fins</content>
+  <content contentuid="h30bd69b7g7d23gbf8ag2803gee584b49cd74" version="1">Taunting Stylus</content>
+  <content contentuid="h0a0edf7cgc22fgb800gc68fgabba645e4aaf" version="1">Coral Ridges</content>
+  <content contentuid="h59857588g6c39g23b9g4393g0b1e0d12d1c6" version="1">Porcupine Chops</content>
+  <content contentuid="hdec8e93fg1f1bgd44dg4a97g459bb8fd2766" version="1">Jaws of Ruin</content>
+  <content contentuid="h686949d7g7c62g7f5dgdcf3g51ca1e5bf3b2" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h3e1b5fbeg317dgeb5fg4768g4f265997ad96" version="1">Sombre Calamity</content>
+  <content contentuid="h52929e56g55a6g6321g9bceg3d198c04d391" version="1">Royal Plateau</content>
+  <content contentuid="hb111d9f5gc453g3e8ag6625g10e0c82c4ac4" version="1">Dagger Pommel</content>
+  <content contentuid="h84d7e327gb1efgead8gac79g75af46c6ac2f" version="1">Calcified</content>
+  <content contentuid="h7724cafbge9f3gfc2bg1b9eg1bbe72b4d32e" version="1">Chintacle</content>
+  <content contentuid="hb6462177g7a0cg6396gcfedg72ca37b04257" version="1">Waltzing Fangs</content>
+  <content contentuid="he4681e27gfaf2g76c1g39f2gadf4395c6997" version="1">Stentorian</content>
+  <content contentuid="h6bd910efg0bdeg71e3g58fag7660c8ede27c" version="1">Cliff Jut</content>
+  <content contentuid="h49dfce89g7117g2e90g82bdg33b0f89a0953" version="1">Jewel Point</content>
+  <content contentuid="h04bb3673gfcacg8fd1g3b0dgdff8e4c8ed22" version="1">Stalactite</content>
+  <content contentuid="h4c16bc99ga621g665dg4d9dgb035a5e02688" version="1">Pinnacle</content>
+  <content contentuid="h02dfdb8dgf2d1gdbe1gcf8dg2a6c1f537906" version="1">Hatchet Spike</content>
 </contentList>
